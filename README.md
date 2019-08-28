@@ -19,7 +19,7 @@ GitHub is a service that hosts remote repositories for millions of developers ar
 
 In this class, we will complete all programming assignments on GitHub, this will allow TA's to easily check your work, and will protect your work from loss should anything happen to your computer.
 
-### Setiing Up for the Lab
+### Setting Up for the Lab
 
 Now that you know some of the basic terms, lets move into this lab. The first thing you must do is **clone** the repository, or create a **local** copy of the repository on your computer. to do this, you will need to launch the **git bash** app on your lab computer. If you are using your own computer, install git by following the instructions for your operating system on [the git website](https://www.git-scm.com).
 
@@ -30,7 +30,7 @@ Now that you know some of the basic terms, lets move into this lab. The first th
    2. Open the repository and project.
       * You must now navigate to your repository in git bash. First, run the `ls` command to view the contents of your current directory. You should only see one subdirectory, this is the repository you have just cloned. To navigate to your repository, run `cd [REPOSITORY-NAME-HERE]`.
       * Now that your repository is open in git bash, it's time to open NetBeans, the IDE we will use in COMP167.
-      
+
 ### What is an IDE?
 
 An IDE, or an Integrated Development Environment, is a tool developers use when writing software. Good IDE's endeavor to make often repeated tasks as easy as possible for developers, as well as help developers avoid errors by providing services like autocompletion, linting, and debugging. NetBeans, the IDE we will use, was created by Oracle specifically to work for Java developers, like us.
@@ -42,7 +42,7 @@ For this lab, the NetBeans project is already created for you. In future labs, y
    1. Launch the NetBeans application.
    2. Select "File" and "Open Project". Navigate to your newly cloned repository and double-click on the project called _Contacts_.
    3. The left-hand side of your screen should show your project hierarchy, **source files**, or files ending in the .java file extension, are located under "Contacts -> Source Packages -> contacts".
-         * All source files in a NetBeans project will need to be located in a package. Source files not in a named package are said to be in the **default package**. 
+         * All source files in a NetBeans project will need to be located in a package. Source files not in a named package are said to be in the **default package**.
    4. Open all source files and take a look at the project you have been provided.
 
 ### Debug the Program
